@@ -1,2 +1,4 @@
-# Belajar-Kolaborasi
-Belajar GitHub di Dicoding seruu bangett!
+# Belajar-Kolaborasi  
+Belajar disini sangat seru
+Mempelajari hal baru 2 jam sehari
+
